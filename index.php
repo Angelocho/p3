@@ -9,7 +9,7 @@
 
         <pre>
             Ejecuta php -S localhost:9000
-            visital con tu navegador
+            visitar con tu navegador
         </pre>
         <?php
             echo "Esto lo escribe PHP"
