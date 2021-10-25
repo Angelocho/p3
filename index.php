@@ -8,7 +8,7 @@
         <p>Esto es un párrafo</p>
 
         <pre>
-            Ejecuta php -S localhost:9000
+            
             visitar con tu navegador
         </pre>
         <?php
