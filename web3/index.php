@@ -12,7 +12,7 @@
             visitar con tu navegador
         </pre>
         <?php
-            echo "Esto lo escribe PHP"
+            echo "Esto lo escribe PHP";
         ?>
     </body>
 </html>
